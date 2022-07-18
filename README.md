@@ -1,6 +1,6 @@
 # googleform
 
-Google form in flutter.
+Google form Applicaiton in flutter.
 
 ## Getting Started
 
